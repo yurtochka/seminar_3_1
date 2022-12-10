@@ -71,19 +71,3 @@
 
 Чтобы переключиться на другую ветку../
 
-ОПисание команд:
-
-    git branch
-    git branch <branch_name>
-    git branch -d <branch_name>
-    
-    git checkout <branch_name>
-
-    git log --graph
-    git log --all --oneline --graph
-
-    git merge <branch_name>
-
-Конфликт слияния и его разрешение
-
-не менее 4 веток

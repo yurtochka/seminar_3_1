@@ -75,6 +75,13 @@
 
     git checkout <branch_name>
 
+### Удаление ветки 
+
+Чтобы удалить локальную ветку в Git, нужно выполнить команду:
+
+    git branch -d <branch_name>
+    
+
 ОПисание команд:
 
     git branch
